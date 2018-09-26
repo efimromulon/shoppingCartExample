@@ -49,7 +49,7 @@ const state = {
 	]
 }
 
-conts getters = {
+const getters = {
 
 	allProducts: state => state.all,
 	getNumberOfProducts: state => (state.all) ? state.all.length : 0,
