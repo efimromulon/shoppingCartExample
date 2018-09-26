@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import * as types from './mutations-types'
+import * as types from './mutation-types.js'
 
 Vue.use(Vuex)
 

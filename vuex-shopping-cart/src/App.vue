@@ -1,7 +1,7 @@
 <template>
 	<div id="app" class='container'>
 		<nav-bar></nav-bar>
-		<router-vue></router-vue>
+		</router-vue>
 	</div>
 </template>
 
